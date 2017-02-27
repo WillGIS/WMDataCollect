@@ -1,0 +1,2 @@
+# WMDataCollect
+AM-DATA-POI-COLLECT
